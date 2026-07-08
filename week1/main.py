@@ -2,7 +2,6 @@ import os
 
 import numpy as np
 import pandas as pd
-from pandas.core.col import col
 
 
 def load_data(path: str) -> pd.DataFrame:
